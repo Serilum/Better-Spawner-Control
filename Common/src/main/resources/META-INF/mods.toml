@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Better%20Spawner%20Control"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Better%20Spawner%20Control"
 logoFile="icon.png"
 
 [[mods]]
 modId="betterspawnercontrol"
-version="4.3"
+version="4.4"
 displayName="Better Spawner Control"
-displayURL="https://curseforge.com/minecraft/mc-mods/better-spawner-control"
+displayURL="https://serilum.com/mod/better-spawner-control"
 authors="Rick South"
 description='''Mob spawners will be disabled and not spawn any entities when surrounded by 5 torches.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.betterspawnercontrol]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.betterspawnercontrol]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"
