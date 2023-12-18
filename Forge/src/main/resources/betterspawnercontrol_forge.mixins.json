@@ -2,6 +2,7 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.natamus.betterspawnercontrol.forge.mixin",
+  "plugin": "com.natamus.collective.forge.mixin.plugin.ForgeMixinConfigPlugin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "betterspawnercontrol_forge.refmap.json",
   "mixins": [
