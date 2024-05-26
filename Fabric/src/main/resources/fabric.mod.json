@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "betterspawnercontrol",
-  "version": "4.4",
+  "version": "4.5",
 
   "name": "Better Spawner Control",
   "description": "Mob spawners will be disabled and not spawn any entities when surrounded by 5 torches.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.55"
+    "collective": ">=7.60"
   },
 
   "custom": {
@@ -46,10 +46,9 @@
 	  " aternosorg",
 	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
 	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Rare Students",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
