@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "betterspawnercontrol",
+  "version": "4.5",
+
+  "name": "Better Spawner Control",
+  "description": "Mob spawners will be disabled and not spawn any entities when surrounded by 5 torches.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/better-spawner-control",
+    "sources": "https://github.com/Serilum/Better-Spawner-Control",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Better%20Spawner%20Control"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.betterspawnercontrol.ModFabric" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "collective": ">=7.61"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " BirdieMiner",
+	  " Cherriesaurus",
+	  " Jeremy Langford",
+	  " Michael W. S.",
+	  " Rare Students",
+	  " Shana Gitnick",
+	  " Tyler Behl"
+  ]
+}
