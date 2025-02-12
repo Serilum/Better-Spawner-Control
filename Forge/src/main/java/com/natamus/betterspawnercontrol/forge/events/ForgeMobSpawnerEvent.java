@@ -9,12 +9,10 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraftforge.event.entity.living.MobSpawnEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
-@EventBusSubscriber
 public class ForgeMobSpawnerEvent {
 	@SubscribeEvent
-	public void onMobSpawn(MobSpawnEvent.FinalizeSpawn e) {
+	public static void onMobSpawn(MobSpawnEvent.FinalizeSpawn e) {
 		Level level = WorldFunctions.getWorldIfInstanceOfAndNotRemote(e.getLevel());
 		if (level == null) {
 			return;

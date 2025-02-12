@@ -10,10 +10,8 @@ import net.minecraft.world.level.BaseSpawner;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.event.entity.living.MobSpawnEvent;
 
-@EventBusSubscriber
 public class NeoForgeMobSpawnerEvent {
 	@SubscribeEvent
 	public static void onMobSpawn(MobSpawnEvent.PositionCheck e) {
