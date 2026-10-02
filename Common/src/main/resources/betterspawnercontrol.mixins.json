@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.betterspawnercontrol.mixin",
+  "package": "com.serilum.betterspawnercontrol.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
 
