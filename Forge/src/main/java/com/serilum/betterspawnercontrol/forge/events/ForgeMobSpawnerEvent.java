@@ -1,6 +1,6 @@
-package com.natamus.betterspawnercontrol.forge.events;
+package com.serilum.betterspawnercontrol.forge.events;
 
-import com.natamus.betterspawnercontrol.events.MobSpawnerEvent;
+import com.serilum.betterspawnercontrol.events.MobSpawnerEvent;
 import com.natamus.collective.functions.WorldFunctions;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
