@@ -1,4 +1,4 @@
-package com.natamus.betterspawnercontrol.events;
+package com.serilum.betterspawnercontrol.events;
 
 import com.natamus.collective.functions.BlockPosFunctions;
 import com.natamus.collective.functions.EntityFunctions;
