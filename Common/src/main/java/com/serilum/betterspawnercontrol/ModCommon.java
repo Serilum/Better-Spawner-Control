@@ -1,4 +1,4 @@
-package com.natamus.betterspawnercontrol;
+package com.serilum.betterspawnercontrol;
 
 
 public class ModCommon {

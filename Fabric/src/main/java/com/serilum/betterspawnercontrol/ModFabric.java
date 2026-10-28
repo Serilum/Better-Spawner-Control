@@ -1,7 +1,7 @@
-package com.natamus.betterspawnercontrol;
+package com.serilum.betterspawnercontrol;
 
-import com.natamus.betterspawnercontrol.events.MobSpawnerEvent;
-import com.natamus.betterspawnercontrol.util.Reference;
+import com.serilum.betterspawnercontrol.events.MobSpawnerEvent;
+import com.serilum.betterspawnercontrol.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveSpawnEvents;

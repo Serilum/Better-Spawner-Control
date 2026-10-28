@@ -1,5 +1,5 @@
 <h2>Better Spawner Control</h2>
-<p><a href="https://github.com/Serilum/Better-Spawner-Control"><img src="https://serilum.com/assets/images/logo/better-spawner-control.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Better-Spawner-Control"><img src="https://workflow.serilum.com/web/logo/128/better-spawner-control.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Better Spawner Control on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/better-spawner-control">https://curseforge.com/minecraft/mc-mods/better-spawner-control</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/better-spawner-control">https://modrinth.com/mod/better-spawner-control</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>

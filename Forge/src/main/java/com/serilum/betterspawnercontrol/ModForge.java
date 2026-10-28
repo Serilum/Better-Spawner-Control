@@ -1,10 +1,9 @@
-package com.natamus.betterspawnercontrol;
+package com.serilum.betterspawnercontrol;
 
-import com.natamus.betterspawnercontrol.forge.events.ForgeMobSpawnerEvent;
-import com.natamus.betterspawnercontrol.util.Reference;
+import com.serilum.betterspawnercontrol.forge.events.ForgeMobSpawnerEvent;
+import com.serilum.betterspawnercontrol.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
@@ -28,7 +27,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeMobSpawnerEvent.registerEventsInBus();
+		ForgeMobSpawnerEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {

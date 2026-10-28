@@ -1,7 +1,7 @@
-package com.natamus.betterspawnercontrol.neoforge.events;
+package com.serilum.betterspawnercontrol.neoforge.events;
 
 import com.mojang.datafixers.util.Either;
-import com.natamus.betterspawnercontrol.events.MobSpawnerEvent;
+import com.serilum.betterspawnercontrol.events.MobSpawnerEvent;
 import com.natamus.collective.functions.WorldFunctions;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
